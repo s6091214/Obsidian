@@ -7,6 +7,7 @@
 - 響應式系統
 - 元件化
 - Composition API
+- [[虛擬 DOM (Virtual DOM)]]
 
 ##  常用功能 / 語法
 - `v-bind`
