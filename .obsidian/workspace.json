@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "遊戲/楓之谷artale.md",
+                "file": "程式筆記/前端.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "楓之谷artale"
+              "title": "前端"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "遊戲/楓之谷artale.md",
+                "file": "程式筆記/前端.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "楓之谷artale 的反向連結"
+              "title": "前端 的反向連結"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "遊戲/楓之谷artale.md",
+                "file": "程式筆記/前端.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "楓之谷artale 的對外連結"
+              "title": "前端 的對外連結"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "遊戲/楓之谷artale.md",
+                "file": "程式筆記/前端.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "楓之谷artale 的大綱"
+              "title": "前端 的大綱"
             }
           }
         ],
@@ -171,26 +171,28 @@
   },
   "active": "c78634b771d8cd4c",
   "lastOpenFiles": [
+    "程式筆記/Git.md",
+    "程式筆記/Diff 演算法.md",
+    "程式筆記/虛擬 DOM (Virtual DOM).md",
+    "Svelte.md",
+    "程式筆記/前端.md",
+    "程式筆記/Vue.md",
+    "程式筆記/React.md",
+    "程式筆記/JavaScript.md",
+    "程式筆記/TypeScript.md",
+    "程式筆記/Svelte.md",
+    "程式筆記/Angular.md",
     "遊戲/楓之谷artale.md",
     "().md",
-    "Frontend/Diff 演算法.md",
-    "Frontend/虛擬 DOM (Virtual DOM).md",
-    "Frontend/React.md",
-    "Frontend/Vue.md",
-    "Frontend/前端.md",
     "Virtual DOM.md",
-    "Frontend/JavaScript.md",
-    "Frontend/Angular.md",
     "odoo",
-    "Frontend/Svelte.md",
-    "Frontend/TypeScript.md",
     "投資",
     "旅遊",
     "遊戲",
     "前端框架.md",
     "建立鏈接.md",
     "未命名.md",
-    "Frontend",
+    "程式筆記",
     "未命名 1.md",
     "未命名.base"
   ]
