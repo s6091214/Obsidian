@@ -4,24 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "f30f0d997ffdeb43",
+        "id": "5a1cb357c6225b1e",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ead6ede963d411",
+            "id": "5fc7f860f97e04c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "遊戲/Bitburner.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Bitburner 的反向連結"
+            }
+          },
+          {
+            "id": "46c58dfd584e5b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/Quizlet.md",
+                "file": "遊戲/Bitburner.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quizlet"
+              "title": "Bitburner"
+            }
+          },
+          {
+            "id": "6cb3e027865c48c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "發行記錄 1.9.12"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Quizlet.md",
+                "file": "遊戲/Bitburner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Quizlet 的反向連結"
+              "title": "Bitburner 的反向連結"
             }
           },
           {
@@ -113,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/Quizlet.md",
+                "file": "遊戲/Bitburner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Quizlet 的對外連結"
+              "title": "Bitburner 的對外連結"
             }
           },
           {
@@ -142,13 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/Quizlet.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Quizlet 的大綱"
+              "title": "大綱"
             }
           }
         ],
@@ -169,25 +200,31 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "f6ead6ede963d411",
+  "active": "6cb3e027865c48c0",
   "lastOpenFiles": [
-    "工具/Anki.md",
-    "工具/Quizlet.md",
+    "遊戲/楓之谷artale.md",
     "學習方法/勞動興奮.md",
-    "學習方法/費曼學習法.md",
-    "學習方法/間隔重複.md",
-    "程式筆記/Vue.md",
+    "程式筆記/Git.md",
+    "工具/Quizlet.md",
+    "學習方法/抽認卡.md",
+    "遊戲/Bitburner.md",
+    "程式筆記/DNS.md",
+    "程式筆記/CDN.md",
+    "程式筆記/Cloudflare.md",
     "程式筆記/React.md",
+    "程式筆記/Vue.md",
+    "未命名.canvas",
     "程式筆記/虛擬 DOM (Virtual DOM).md",
     "程式筆記/Diff 演算法.md",
-    "程式筆記/Git.md",
     "程式筆記/前端.md",
-    "程式筆記/DNS.md",
-    "程式筆記/Cloudflare.md",
-    "程式筆記/CDN.md",
-    "遊戲/楓之谷artale.md",
-    "工具",
+    "工具/Anki.md",
+    "程式筆記/BFS（Breadth-First Search，廣度優先搜尋）.md",
+    "學習方法/間隔重複.md",
+    "學習方法/費曼學習法.md",
+    "程式筆記/DFS（Depth-First Search，深度優先搜尋）.md",
+    "程式筆記/Queue（隊列）.md",
     "未命名.md",
+    "工具",
     "學習方法",
     "img/DNS.png",
     "img",
@@ -197,14 +234,9 @@
     "程式筆記/JavaScript.md",
     "程式筆記/TypeScript.md",
     "程式筆記/Svelte.md",
-    "程式筆記/Angular.md",
-    "().md",
-    "Virtual DOM.md",
     "odoo",
     "投資",
     "遊戲",
-    "前端框架.md",
-    "建立鏈接.md",
     "程式筆記",
     "未命名.base"
   ]
