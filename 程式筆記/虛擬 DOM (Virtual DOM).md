@@ -32,6 +32,6 @@
 - 有額外記憶體與計算成本
 
 ## 📝 延伸學習
-- [[React]] 如何用 Virtual DOM
+- [[React 筆記|React]] 如何用 Virtual DOM
 - [[Vue]] 的 Virtual DOM 與響應式系統
 - [[Diff 演算法]]

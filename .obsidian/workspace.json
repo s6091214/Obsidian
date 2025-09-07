@@ -11,10 +11,14 @@
             "id": "34739b54f3282b70",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "旅遊美食/再興燒臘飯店.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "再興燒臘飯店"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flashcards",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "旅遊美食/再興燒臘飯店.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大綱"
+              "title": "再興燒臘飯店 的大綱"
             }
           }
         ],
@@ -166,34 +171,35 @@
   },
   "active": "34739b54f3282b70",
   "lastOpenFiles": [
-    "未命名.canvas",
     "旅遊美食/香港4天3夜.md",
+    "旅遊美食/廟街.md",
+    "程式筆記/Nuxt.md",
+    "程式筆記/npx.md",
+    "程式筆記/deno 基本介紹與指令.md",
+    "程式筆記/套件管理器.md",
+    "程式筆記/Corepack 基本介紹與指令.md",
+    "程式筆記/Node.js 安裝與版本管理.md",
+    "程式筆記/React 筆記.md",
+    "程式筆記/Vue.md",
+    "程式筆記/虛擬 DOM (Virtual DOM).md",
+    "程式筆記/Git.md",
+    "程式筆記/Cloudflare.md",
+    "程式筆記/Diff 演算法.md",
+    "程式筆記/前端.md",
+    "程式筆記/DNS.md",
+    "程式筆記/CDN.md",
+    "程式筆記/DFS（Depth-First Search，深度優先搜尋）.md",
+    "程式筆記/Queue（隊列）.md",
+    "程式筆記/BFS（Breadth-First Search，廣度優先搜尋）.md",
+    "程式筆記/NVM 基本介紹與指令.md",
+    "程式筆記/yarn 基本介紹與指令.md",
+    "程式筆記/npm 基本介紹與指令.md",
+    "程式筆記/pnpm 基本介紹與指令.md",
+    "程式筆記/bun 基本介紹與指令.md",
     "旅遊美食/幻彩詠香江.md",
-    "旅遊美食/維多利亞港.md",
-    "旅遊美食/尖沙咀海濱花園.md",
+    "未命名.canvas",
     "未命名 1.base",
     "未命名.base",
-    "旅遊美食/大三巴牌坊.md",
-    "旅遊美食/澳門戀愛巷.md",
-    "旅遊美食/議事亭前地.md",
-    "旅遊美食/金華冰廳.md",
-    "旅遊美食/甘牌燒鵝.md",
-    "旅遊美食/KKday.md",
-    "旅遊美食/八達通卡.md",
-    "旅遊美食/Klook.md",
-    "旅遊美食/佳佳甜品.md",
-    "旅遊美食/一樂燒鵝.md",
-    "旅遊美食/再興燒臘飯店.md",
-    "旅遊美食/廟街.md",
-    "旅遊美食/源記甜品小食.md",
-    "旅遊美食/六記粥麵.md",
-    "旅遊美食/澳門安德魯餅店(氹仔店).md",
-    "旅遊美食/瑪嘉烈蛋撻店.md",
-    "旅遊美食/誠昌飯店.md",
-    "旅遊美食/旺角逛波鞋街.md",
-    "旅遊美食/朗豪坊.md",
-    "程式筆記/BFS（Breadth-First Search，廣度優先搜尋）.md",
-    "遊戲/傳奇商店.md",
     "index.html",
     "工具",
     "學習方法",
