@@ -3,7 +3,7 @@
 -  [講解](https://www.youtube.com/watch?v=meKcyr-oW9Y)
 - **抽象語法樹 (Abstract Syntax Tree, AST)** 是一種資料結構。
 - 用來表示程式碼的語法結構。
-- 編譯器、語言工具、[[Lint]]、轉譯器（如 Babel、ESLint、TypeScript）都會用到。
+- 編譯器、語言工具、[[Lint]]、轉譯器（如 Babel、[[ESLint 基本介紹與指令|ESLint]]、TypeScript）都會用到。
 
 ## 特點
 - **樹狀結構**：每個節點代表程式的一部分（變數、函式、運算式…）。
@@ -49,7 +49,7 @@ Program
 
 - **SCSS** → AST → CSS
     
-- **JS** → AST → 舊版 JS（或直接給瀏覽器執行）
+- **JS** → AST → 舊版 JS
 
 ## 常見應用
 

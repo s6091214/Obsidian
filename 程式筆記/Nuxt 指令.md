@@ -70,3 +70,44 @@ npm i @nuxtjs/tailwindcss
 ```ts
 modules: ['@nuxtjs/tailwindcss'],
 ```
+
+# 生成 Tailwind 設定檔
+
+```js
+npx tailwindcss init
+```
+- 這會建立 `tailwind.config.js`
+    
+- 如果需要自訂主題或 class，可以在裡面設定
+
+# 安裝 Prettier + Tailwind 插件（用於自動排序 class）
+
+- [套件](https://github.com/tailwindlabs/prettier-plugin-tailwindcss?tab=readme-ov-file)
+
+```bash
+npm install -D prettier prettier-plugin-tailwindcss
+```
+
+# 設定 `.prettierrc.cjs`
+
+```js
+  plugins: ['prettier-plugin-tailwindcss'],
+
+  tailwindConfig: './tailwind.config.js', // Tailwind 設定檔（可選）
+
+  tailwindStylesheetPrettier: './assets/css/tailwind.css', // ⚡ 指定 主入口
+```
+
+# 新增 [[Tailwind CSS]] 主入口檔案
+
+assets/css/tailwind.css
+
+```css
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+```
+
+- 這個檔案會被 Prettier 插件讀取，才能正確排序 class

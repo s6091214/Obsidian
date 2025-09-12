@@ -1,6 +1,6 @@
 ## 官網 / 文件
 - [GitHub Repo](https://github.com/nuxt-modules/tailwindcss)
-- [官方文件](https://tailwindcss.com/)
+- [官方文件](https://tailwindcss.nuxtjs.org/getting-started/installation)
 
 # 安裝
 

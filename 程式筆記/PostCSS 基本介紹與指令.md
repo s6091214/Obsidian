@@ -42,5 +42,3 @@ export default {
 ## 備註
 
 - 在 Nuxt 3 中，如果你安裝 `@nuxtjs/tailwindcss`，會自動處理 PostCSS。
-    
-- PostCSS 本身只是一個「平台」，要搭配插件才有功能。

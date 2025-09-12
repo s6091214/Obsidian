@@ -6,7 +6,7 @@
     
 - 特色：
     
-    - **Extensions**：透過插件擴充功能（例如 [[ESLint 基本介紹與指令]]、[[Prettier 基本介紹與指令]]）
+    - **Extensions**：透過插件擴充功能（例如 [[ESLint 基本介紹與指令|ESLint]]、[[Prettier 基本介紹與指令|Prettier]]）
         
     - **IntelliSense**：智慧提示、自動完成
         
@@ -28,5 +28,6 @@
 
 ## 常用插件
 
-- **[[ESLint 基本介紹與指令]]** → 程式碼檢查  
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)→ 程式碼檢查  
 - **[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)** → 路徑自動完成  
+- **[Tailwind-CSS-IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)** →自動補全 Tailwind class
