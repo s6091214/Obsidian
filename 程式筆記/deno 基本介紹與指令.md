@@ -22,10 +22,6 @@ deno -V # 檢查版本
 deno run app.ts               # 執行程式
 deno run --allow-net server.ts # 執行並允許網路存取
 deno run --allow-read file.ts  # 執行並允許讀檔
-
-deno fmt                       # 程式碼格式化
-deno lint                      # 程式碼檢查
-deno test                      # 執行測試
 ```
 
 

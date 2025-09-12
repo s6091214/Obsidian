@@ -54,4 +54,19 @@ npx nuxt upgrade             # 升級 Nuxt 到最新版本
 npx nuxt devtools disable    # 關閉 Devtools (預設啟用 enable)
 ```
 
+## 安裝 [[Prettier 基本介紹與指令]] + ESLint 套件
 
+```bash
+npm i -D prettier eslint-config-prettier eslint-plugin-prettier
+```
+
+# 安裝 [[Tailwind CSS]]
+
+```bash
+npm i @nuxtjs/tailwindcss
+```
+
+- 在 `nuxt.config.ts` 的 `modules` 中加入：
+```ts
+modules: ['@nuxtjs/tailwindcss'],
+```
