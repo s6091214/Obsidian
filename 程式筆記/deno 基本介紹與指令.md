@@ -27,8 +27,8 @@ deno run --allow-read file.ts  # 執行並允許讀檔
 
 # 與 Node.js 差異
 
-- **Node.js** → [[npm 基本介紹與指令]] 生態龐大，需額外安裝 TypeScript、lint、測試工具
+- **Node.js** → [[npm 基本介紹與指令]] 生態龐大，需額外安裝 TypeScript、[[lint]]、測試工具
     
-- **Deno** → 內建 TS / 測試 / lint，安全性設計更嚴格
+- **Deno** → 內建 TS / 測試 / [[lint]]，安全性設計更嚴格
     
 - **模組系統**：Node 傳統用 CommonJS/ESM；Deno 全部用 ESM + URL 匯入

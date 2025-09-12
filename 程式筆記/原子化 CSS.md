@@ -25,5 +25,5 @@
 # 常見框架
 
 - [[Tachyons]]：早期流行的原子化 CSS 框架，開創小而獨立 class 的先例。
-- [[Tailwind CSS]]：目前最受歡迎的實用工具優先（utility-first）框架，提供大量預定義原子 class，並通過 PostCSS 插件優化最終輸出。
+- [[Tailwind CSS]]：目前最受歡迎的實用工具優先（utility-first）框架，提供大量預定義原子 class，並通過 [[PostCSS 基本介紹與指令|PostCSS]] 插件優化最終輸出。
 - [[UnoCSS]]：下一代原子化 CSS 解決方案，支持按需即時生成，兼容多種預設並具備極高的靈活性。
