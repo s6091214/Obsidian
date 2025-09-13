@@ -54,7 +54,7 @@ npx nuxt upgrade             # 升級 Nuxt 到最新版本
 npx nuxt devtools disable    # 關閉 Devtools (預設啟用 enable)
 ```
 
-## 安裝 [[Prettier 基本介紹與指令]] + ESLint 套件
+## 安裝 [[Prettier 基本介紹與指令|Prettier]] + [[ESLint 基本介紹與指令|ESLint]] 套件
 
 ```bash
 npm i -D prettier eslint-config-prettier eslint-plugin-prettier

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式筆記/Nuxt 指令.md",
+                "file": "程式筆記/ESLint 基本介紹與指令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nuxt 指令"
+              "title": "ESLint 基本介紹與指令"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式筆記/Nuxt 指令.md",
+                "file": "程式筆記/ESLint 基本介紹與指令.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Nuxt 指令 的大綱"
+              "title": "ESLint 基本介紹與指令 的大綱"
             }
           }
         ],
@@ -171,32 +171,32 @@
   },
   "active": "34739b54f3282b70",
   "lastOpenFiles": [
+    "程式筆記/Tailwind CSS（Nuxt 模組）.md",
     "程式筆記/Nuxt 指令.md",
-    "程式筆記/Prettier 基本介紹與指令.md",
-    "程式筆記/ESLint 基本介紹與指令.md",
-    "程式筆記/Tailwind CSS.md",
-    "程式筆記/原子化 CSS.md",
-    "程式筆記/Autoprefixer 基本介紹與指令.md",
-    "程式筆記/Can I Use.md",
+    "程式筆記/Tachyons.md",
     "程式筆記/前端.md",
     "程式筆記/UnoCSS.md",
+    "程式筆記/Can I Use.md",
+    "程式筆記/NVM 基本介紹與指令.md",
+    "程式筆記/BFS（Breadth-First Search，廣度優先搜尋）.md",
+    "程式筆記/DNS.md",
+    "程式筆記/CDN.md",
+    "旅遊美食/尖沙咀海濱花園.md",
+    "旅遊美食/八達通卡.md",
+    "工具/Anki.md",
     "程式筆記/deno 基本介紹與指令.md",
-    "程式筆記/Lint.md",
     "程式筆記/AST（抽象語法樹）.md",
-    "程式筆記/PostCSS 基本介紹與指令.md",
-    "程式筆記/Tailwind CSS（Nuxt 模組）.md",
     "程式筆記/npx 基本介紹與指令.md",
-    "程式筆記/Tachyons.md",
+    "程式筆記/PostCSS 基本介紹與指令.md",
+    "程式筆記/Lint.md",
+    "程式筆記/Tailwind CSS.md",
+    "程式筆記/Prettier 基本介紹與指令.md",
+    "程式筆記/ESLint 基本介紹與指令.md",
+    "程式筆記/原子化 CSS.md",
+    "程式筆記/Autoprefixer 基本介紹與指令.md",
     "程式筆記/VSCode.md",
     "程式筆記/Corepack 基本介紹與指令.md",
     "程式筆記/套件管理器.md",
-    "程式筆記/bun 基本介紹與指令.md",
-    "程式筆記/Node.js 安裝與版本管理.md",
-    "程式筆記/虛擬 DOM (Virtual DOM).md",
-    "程式筆記/eslint-config-prettier 基本介紹與指令.md",
-    "程式筆記/pnpm 基本介紹與指令.md",
-    "程式筆記/yarn 基本介紹與指令.md",
-    "程式筆記/NVM 基本介紹與指令.md",
     "未命名.canvas",
     "未命名 1.base",
     "未命名.base",

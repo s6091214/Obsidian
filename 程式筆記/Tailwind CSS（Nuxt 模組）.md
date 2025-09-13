@@ -24,4 +24,4 @@ export default defineNuxtConfig({
 
 - `-D` 代表安裝為 **開發依賴**
     
-- Nuxt 模組會自動幫你配置好 [[PostCSS 基本介紹與指令]]
+- Nuxt 模組會自動幫你配置好 [[PostCSS 基本介紹與指令|PostCSS]]
