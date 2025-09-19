@@ -2,6 +2,21 @@
 # 教學
 - [git教學](https://w3c.hexschool.com/git/cfdbd310)
 
+# 本地建立專案流程
+
+- 在 GitHub 建立了一個儲存庫
+
+```bash
+git init # 初始化
+git add .# 新增檔案
+git commit -m "Initial commit" # 提交檔案
+git branch # 確認本機分支名稱
+git remote add <name> <url> # 添加你在github建立的遠端的名稱跟儲存庫的URL
+git remote add origin https://github.com/s6091214/nuxt-app.git
+git remote -v # 檢查有沒有設定過遠端
+git push origin master # 推送到 GitHub 更新
+```
+
 # GUI 工具
 
 - [**GitHub Desktop**](https://desktop.github.com/download/)

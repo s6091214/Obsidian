@@ -4,24 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "5a1cb357c6225b1e",
-        "type": "tabs",
+        "id": "7ecdf4a46610f285",
+        "type": "split",
         "children": [
           {
-            "id": "34739b54f3282b70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式筆記/ESLint 基本介紹與指令.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ESLint 基本介紹與指令"
-            }
+            "id": "5a1cb357c6225b1e",
+            "type": "tabs",
+            "dimension": 58.47701149425287,
+            "children": [
+              {
+                "id": "34739b54f3282b70",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "程式筆記/Nuxt4/app.config.ts.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "app.config.ts"
+                },
+                "group": "9f433ee30d52df29"
+              }
+            ]
+          },
+          {
+            "id": "6220d3329810e806",
+            "type": "tabs",
+            "dimension": 41.52298850574713,
+            "children": [
+              {
+                "id": "afe9d2a8d3c8e0df",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "程式筆記/Nuxt4/app.config.ts.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "app.config.ts 的反向連結"
+                },
+                "group": "9f433ee30d52df29"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nuxi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式筆記/ESLint 基本介紹與指令.md",
+                "file": "程式筆記/Nuxt4/app.config.ts.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ESLint 基本介紹與指令 的大綱"
+              "title": "app.config.ts 的大綱"
             }
           }
         ],
@@ -171,32 +207,33 @@
   },
   "active": "34739b54f3282b70",
   "lastOpenFiles": [
-    "程式筆記/Tailwind CSS（Nuxt 模組）.md",
-    "程式筆記/Nuxt 指令.md",
-    "程式筆記/Tachyons.md",
-    "程式筆記/前端.md",
-    "程式筆記/UnoCSS.md",
-    "程式筆記/Can I Use.md",
-    "程式筆記/NVM 基本介紹與指令.md",
-    "程式筆記/BFS（Breadth-First Search，廣度優先搜尋）.md",
-    "程式筆記/DNS.md",
-    "程式筆記/CDN.md",
-    "旅遊美食/尖沙咀海濱花園.md",
-    "旅遊美食/八達通卡.md",
-    "工具/Anki.md",
-    "程式筆記/deno 基本介紹與指令.md",
-    "程式筆記/AST（抽象語法樹）.md",
-    "程式筆記/npx 基本介紹與指令.md",
-    "程式筆記/PostCSS 基本介紹與指令.md",
-    "程式筆記/Lint.md",
-    "程式筆記/Tailwind CSS.md",
-    "程式筆記/Prettier 基本介紹與指令.md",
-    "程式筆記/ESLint 基本介紹與指令.md",
-    "程式筆記/原子化 CSS.md",
-    "程式筆記/Autoprefixer 基本介紹與指令.md",
-    "程式筆記/VSCode.md",
-    "程式筆記/Corepack 基本介紹與指令.md",
-    "程式筆記/套件管理器.md",
+    "程式筆記/Nuxt4/Nuxt Runtime Config.md",
+    "程式筆記/Nuxt4/app.config.ts.md",
+    "程式筆記/Nuxt4/Nuxt 反向代理.md",
+    "程式筆記/Nuxt4/Nuxt icon.md",
+    "程式筆記/Pinia Plugin Persistedstate.md",
+    "程式筆記/VueUse.md",
+    "程式筆記/Vue-ScrollTo 套件.md",
+    "程式筆記/Rendering 模式比較.md",
+    "程式筆記/Google OAuth.md",
+    "程式筆記/Google Identity Services (GIS).md",
+    "程式筆記/Vue 3 Google Login.md",
+    "程式筆記/Nuxt4/Hydration.md",
+    "程式筆記/Nuxt4/Nuxt 指令.md",
+    "程式筆記/Nuxt4/Nuxt Layouts.md",
+    "程式筆記/Nuxt4/Nuxt Components.md",
+    "程式筆記/Nuxt4/Nuxt 筆記總覽.md",
+    "程式筆記/Nuxt4/Nuxt Composables.md",
+    "程式筆記/Nuxt4/Nuxt Plugins.md",
+    "程式筆記/Nuxt4/Nuxt Modules.md",
+    "程式筆記/Nuxt4/Nuxt Middleware.md",
+    "程式筆記/Nuxt4/Nuxt Serve.md",
+    "程式筆記/Nuxt4/Nuxt Nitro.md",
+    "程式筆記/Diff 演算法.md",
+    "程式筆記/Iconify 筆記.md",
+    "程式筆記/客戶端渲染（CSR）.md",
+    "程式筆記/伺服器端渲染（SSR）.md",
+    "程式筆記/Nuxt4",
     "未命名.canvas",
     "未命名 1.base",
     "未命名.base",
@@ -208,7 +245,6 @@
     "{DDAC52C4-3AA7-4C1D-81C9-E9552EB68FCE} 1.png",
     "旅遊美食",
     "odoo",
-    "投資",
-    "遊戲"
+    "投資"
   ]
 }

@@ -28,6 +28,13 @@
 
 ## 常用插件
 
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)→ 程式碼檢查  
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)→ 程式碼檢查 
+	- 在開發過程遇到Delete `␍`eslint在setting.json加入:
+
+```json
+"files.eol": "\n",
+```
+
 - **[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)** → 路徑自動完成  
 - **[Tailwind-CSS-IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)** →自動補全 Tailwind class
+
