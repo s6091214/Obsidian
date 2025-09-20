@@ -1,0 +1,2 @@
+- [favicon.io](https://favicon.io/favicon-converter/)
+- [realfavicongenerator.net](https://realfavicongenerator.net/)

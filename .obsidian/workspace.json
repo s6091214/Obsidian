@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "程式筆記/Nuxt4/app.config.ts.md",
+                    "file": "程式筆記/線上轉換 favicon.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "app.config.ts"
+                  "title": "線上轉換 favicon"
                 },
                 "group": "9f433ee30d52df29"
               }
@@ -40,7 +40,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "程式筆記/Nuxt4/app.config.ts.md",
+                    "file": "程式筆記/線上轉換 favicon.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -50,7 +50,7 @@
                     "unlinkedCollapsed": false
                   },
                   "icon": "links-coming-in",
-                  "title": "app.config.ts 的反向連結"
+                  "title": "線上轉換 favicon 的反向連結"
                 },
                 "group": "9f433ee30d52df29"
               }
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式筆記/Nuxt4/app.config.ts.md",
+                "file": "程式筆記/線上轉換 favicon.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "app.config.ts 的大綱"
+              "title": "線上轉換 favicon 的大綱"
             }
           }
         ],
@@ -207,32 +207,32 @@
   },
   "active": "34739b54f3282b70",
   "lastOpenFiles": [
-    "程式筆記/Nuxt4/Nuxt Runtime Config.md",
-    "程式筆記/Nuxt4/app.config.ts.md",
-    "程式筆記/Nuxt4/Nuxt 反向代理.md",
-    "程式筆記/Nuxt4/Nuxt icon.md",
+    "程式筆記/Nuxt4/Nuxt I18n.md",
+    "程式筆記/線上轉換 favicon.md",
+    "程式筆記/邊緣渲染 (ESR).md",
+    "程式筆記/增量靜態再生（ISR）.md",
+    "程式筆記/靜態網站生成（SSG）.md",
+    "程式筆記/混合渲染 (Hybrid Rendering).md",
+    "程式筆記/伺服器端渲染（SSR）.md",
+    "程式筆記/客戶端渲染（CSR）.md",
+    "程式筆記/google-auth-library.md",
     "程式筆記/Pinia Plugin Persistedstate.md",
-    "程式筆記/VueUse.md",
-    "程式筆記/Vue-ScrollTo 套件.md",
     "程式筆記/Rendering 模式比較.md",
     "程式筆記/Google OAuth.md",
-    "程式筆記/Google Identity Services (GIS).md",
     "程式筆記/Vue 3 Google Login.md",
+    "程式筆記/Google Identity Services (GIS).md",
+    "程式筆記/Nuxt4/app.config.ts.md",
+    "程式筆記/Nuxt4/Nuxt Runtime Config.md",
+    "程式筆記/Nuxt4/Nuxt 反向代理.md",
+    "程式筆記/Nuxt4/Nuxt icon.md",
+    "程式筆記/VueUse.md",
+    "程式筆記/Vue-ScrollTo 套件.md",
     "程式筆記/Nuxt4/Hydration.md",
     "程式筆記/Nuxt4/Nuxt 指令.md",
     "程式筆記/Nuxt4/Nuxt Layouts.md",
     "程式筆記/Nuxt4/Nuxt Components.md",
     "程式筆記/Nuxt4/Nuxt 筆記總覽.md",
     "程式筆記/Nuxt4/Nuxt Composables.md",
-    "程式筆記/Nuxt4/Nuxt Plugins.md",
-    "程式筆記/Nuxt4/Nuxt Modules.md",
-    "程式筆記/Nuxt4/Nuxt Middleware.md",
-    "程式筆記/Nuxt4/Nuxt Serve.md",
-    "程式筆記/Nuxt4/Nuxt Nitro.md",
-    "程式筆記/Diff 演算法.md",
-    "程式筆記/Iconify 筆記.md",
-    "程式筆記/客戶端渲染（CSR）.md",
-    "程式筆記/伺服器端渲染（SSR）.md",
     "程式筆記/Nuxt4",
     "未命名.canvas",
     "未命名 1.base",
