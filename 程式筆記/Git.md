@@ -4,7 +4,7 @@
 
 # 本地建立專案流程
 
-- 在 GitHub 建立了一個儲存庫
+- 在 [[GitHub 筆記|GitHub]] 建立了一個儲存庫
 
 ```bash
 git init # 初始化
@@ -14,7 +14,7 @@ git branch # 確認本機分支名稱
 git remote add <name> <url> # 添加你在github建立的遠端的名稱跟儲存庫的URL
 git remote add origin https://github.com/s6091214/nuxt-app.git
 git remote -v # 檢查有沒有設定過遠端
-git push origin master # 推送到 GitHub 更新
+git push origin master # 推送到 [[GitHub]] 更新
 ```
 
 # GUI 工具
