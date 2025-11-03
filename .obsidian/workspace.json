@@ -4,75 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7ecdf4a46610f285",
-        "type": "split",
+        "id": "5a1cb357c6225b1e",
+        "type": "tabs",
         "children": [
           {
-            "id": "5a1cb357c6225b1e",
-            "type": "tabs",
-            "dimension": 58.47701149425287,
-            "children": [
-              {
-                "id": "34739b54f3282b70",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "程式筆記/Vercel 平台.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Vercel 平台"
-                },
-                "group": "9f433ee30d52df29"
+            "id": "34739b54f3282b70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式筆記/TMDB Vue3 SPA 專案筆記/TMDB-01-取得APIKey.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "8fe481c3bd9c106b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "程式筆記/Google OAuth.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Google OAuth"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "TMDB-01-取得APIKey"
+            }
           },
           {
-            "id": "6220d3329810e806",
-            "type": "tabs",
-            "dimension": 41.52298850574713,
-            "children": [
-              {
-                "id": "afe9d2a8d3c8e0df",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "程式筆記/Vercel 平台.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  },
-                  "icon": "links-coming-in",
-                  "title": "Vercel 平台 的反向連結"
-                },
-                "group": "9f433ee30d52df29"
-              }
-            ]
+            "id": "7e6e30a88f0092ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式筆記/TMDB Vue3 SPA 專案筆記/TMDB API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TMDB API"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GitHub 筆記",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -193,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式筆記/Google OAuth.md",
+                "file": "程式筆記/TMDB Vue3 SPA 專案筆記/TMDB API.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Google OAuth 的大綱"
+              "title": "TMDB API 的大綱"
             }
           }
         ],
@@ -220,46 +184,50 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "8fe481c3bd9c106b",
+  "active": "7e6e30a88f0092ca",
   "lastOpenFiles": [
-    "程式筆記/Vue 3 Google Login.md",
-    "程式筆記/Git.md",
-    "程式筆記/Vercel 平台.md",
-    "旅遊美食/Klook.md",
-    "旅遊美食/KKday.md",
-    "旅遊美食/香港/金華冰廳.md",
-    "旅遊美食/香港",
-    "程式筆記/Google Identity Services (GIS).md",
-    "程式筆記/google-auth-library.md",
-    "程式筆記/線上轉換 favicon.md",
-    "程式筆記/GitHub 筆記.md",
-    "程式筆記/邊緣渲染 (ESR).md",
-    "程式筆記/AST（抽象語法樹）.md",
-    "程式筆記/Nuxt4/Nuxt I18n.md",
-    "程式筆記/增量靜態再生（ISR）.md",
-    "程式筆記/靜態網站生成（SSG）.md",
-    "程式筆記/混合渲染 (Hybrid Rendering).md",
-    "程式筆記/伺服器端渲染（SSR）.md",
-    "程式筆記/客戶端渲染（CSR）.md",
-    "程式筆記/Pinia Plugin Persistedstate.md",
-    "程式筆記/Rendering 模式比較.md",
-    "程式筆記/Google OAuth.md",
-    "程式筆記/Nuxt4/app.config.ts.md",
-    "程式筆記/Nuxt4/Nuxt Runtime Config.md",
+    "程式筆記/TMDB Vue3 SPA 專案筆記/TMDB Vue3 SPA 專案筆記.md",
+    "程式筆記/TMDB Vue3 SPA 專案筆記/TMDB-02-建立API Service封裝.md",
+    "程式筆記/TMDB Vue3 SPA 專案筆記/TMDB-03-首頁熱門電影.md",
+    "程式筆記/Iconify 筆記.md",
+    "程式筆記/TMDB Vue3 SPA 專案筆記/TMDB API.md",
+    "程式筆記/element-plus.md",
     "程式筆記/Nuxt4/Nuxt 反向代理.md",
+    "程式筆記/Nuxt4/Nuxt 指令.md",
+    "程式筆記/Tailwind CSS.md",
+    "程式筆記/Nuxt4/Nuxt 筆記總覽.md",
+    "程式筆記/TMDB Vue3 SPA 專案筆記/TMDB-01-取得APIKey.md",
     "程式筆記/Nuxt4/Nuxt icon.md",
+    "程式筆記/Autoprefixer 基本介紹與指令.md",
+    "程式筆記/Can I Use.md",
+    "程式筆記/npx 基本介紹與指令.md",
+    "程式筆記/VSCode.md",
     "程式筆記/VueUse.md",
-    "程式筆記/Nuxt4",
+    "程式筆記/Vue-ScrollTo 套件.md",
+    "程式筆記/Tailwind CSS（Nuxt 模組）.md",
+    "程式筆記/Diff 演算法.md",
+    "程式筆記/Git.md",
+    "程式筆記/Vue3 建立專案.md",
+    "程式筆記/未命名/未命名",
+    "程式筆記/TMDB Vue3 SPA 專案筆記",
+    "{ADC81C40-4959-43BF-A9D5-5CBD02D0D58F}.png",
+    "{ADC81C40-4959-43BF-A9D5-5CBD02D0D58F} 1.png",
+    "img/vue3.png",
+    "img/neon.png",
+    "程式筆記/BFF 架構（Backend For Frontend）.md",
+    "程式筆記/Neon.md",
+    "程式筆記/Vercel 平台.md",
+    "img/DNS.png",
+    "程式筆記/bun 基本介紹與指令.md",
     "未命名.canvas",
+    "旅遊美食/香港",
+    "程式筆記/Nuxt4",
     "未命名 1.base",
     "未命名.base",
     "index.html",
     "工具",
     "學習方法",
-    "img/DNS.png",
     "img",
-    "{DDAC52C4-3AA7-4C1D-81C9-E9552EB68FCE} 1.png",
-    "旅遊美食",
-    "odoo"
+    "{DDAC52C4-3AA7-4C1D-81C9-E9552EB68FCE} 1.png"
   ]
 }

@@ -1,4 +1,4 @@
-
+- [教學](https://ithelp.ithome.com.tw/m/articles/10319451)
 - [[Nuxt 指令]]
 - [[Nuxt Layouts]]
 - [[Nuxt Components]]

@@ -1,4 +1,4 @@
-#### `nuxt.config.ts` 設定範例
+#### `nuxt.config.ts` 設定範例4.1.1版本
 
 ```ts
 import { defineNuxtConfig } from 'nuxt'
@@ -26,6 +26,19 @@ export default defineNuxtConfig({
   },
 })
 
+```
+
+### 4.2以後版本
+
+```ts
+  nitro: {
+    devProxy: {
+      '/api': {
+        target: 'https://vue-admin-coral.vercel.app/api',
+        changeOrigin: true,
+      },
+    },
+  },
 ```
 
 ### 說明

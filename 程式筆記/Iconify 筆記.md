@@ -3,6 +3,7 @@
 - Iconify 是一個 **統一的圖標框架**，整合了超過 **150+ icon 套件**（例如 Material Design Icons、Tabler Icons、Bootstrap Icons）。
 - 支援多種前端框架（Vue、React、Svelte 等），在 Nuxt 中可透過 **[@nuxt/icon](https://nuxt.com/modules/icon)** 使用。
 - 提供即時載入、最佳化與快取，避免手動引入大量 SVG。
+- [文檔](https://iconify.design/docs/icon-components/vue/)
 
 ## Icon 命名規則
 
