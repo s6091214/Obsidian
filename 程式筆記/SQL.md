@@ -1,0 +1,1 @@
+https://datainpoint.com/classroom-hahow-sqlfifty-2025/notebooks/01-introduction.slides.html#/
